@@ -20,7 +20,7 @@ You can help me with my work either making code changes here on Github or helpin
 ### Donations are welcome
 BTC: bc1qy009xk2wgve56adrkpqsur7njmjf7tp9rgd6vq
 
-![QR Code BTC]https://github.com/JoaoVictorVP/About-Me/blob/main/QR/BTC-QRCode.PNG)
+![QR Code BTC](https://github.com/JoaoVictorVP/About-Me/blob/main/QR/BTC-QRCode.PNG)
 
 Monero: 8A2PBhRt7Zn59wvhtLr5jRPGJG1g9pmjt6236qCFdVcHHgPN8vhAD5578n7Np5xKSPCEtUQeWwJmVfps3YsT7uuw1noVzcY
 
