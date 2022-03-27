@@ -30,4 +30,8 @@ Nano: nano_1rd8uiqxws711hn591kac4hotqs6uf73o6wowmns8f8cckudkggykrkdy9ie
 
 ![QR Code Nano](https://github.com/JoaoVictorVP/About-Me/blob/main/QR/Nano-QRCode.jpg)
 
+ZCash: zs1xvlegpccccj0krnwp3frqefd8cyzgzpdm53rnz0mmpl98e9zftljxz9ejvus3mwtjj9k54pwqtx
+
+![QR Code ZCash](https://github.com/JoaoVictorVP/About-Me/blob/main/QR/ZCash-QRCode.PNG)
+
 Patreon: [Link https://www.patreon.com/joaovictor_nipah](https://www.patreon.com/joaovictor_nipah)
