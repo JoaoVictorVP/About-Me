@@ -5,6 +5,9 @@ My name is John Victor! I've been a C#/.NET programmer for about 6 years now and
 
 Well, I have a lot of skills and small details. I could never go to college or anything like that, but I can easily make a program of any kind in a few hours, I can think in terms of algorithms and design complex system archetypes almost instantly like any good programmer... doesn't seem to be of much use unfortunately, hahahahahaha... people unfortunately like embellished papers more than giving people chances. Well, that doesn't matter here, this is a session about me and these are details about me!
 
+My CV:
+ pt-BR: [CV in PDF](https://github.com/JoaoVictorVP/About-Me/blob/main/Jo%C3%A3o%20Victor%20Viana%20Pacheco%20pt-br%20(READY).pdf)
+
 ## Great Projects
 Some of the projects I'm most proud of right now, and which are on GitHub (I haven't had it in a long time, unfortunately I didn't know it would be something that important until I needed it), are:
  * [Iza Blockchain](https://github.com/JoaoVictorVP/Iza-Blockchain): A blockchain, literally, that I'm building to serve as a cheaper second layer to the BSC or any network I can use to write more "permanent" data for a game of mine. Well, that was the initial idea, I've been studying a lot about cryptography and I've been having more and more different thoughts about what to do next, I believe it will evolve and overcome some problems of current blockchains.
